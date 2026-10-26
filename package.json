@@ -1,0 +1,9 @@
+{
+  "name": "knuckles-showcase-shop",
+  "version": "1.0.0",
+  "description": "Knuckles artist showcase and lightweight order enquiry shop",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "dependencies": { "express": "^4.21.2" },
+  "engines": { "node": ">=18" }
+}
